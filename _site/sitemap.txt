@@ -1,0 +1,11 @@
+
+http://yukop.github.com/archive.html
+http://yukop.github.com/atom.xml
+http://yukop.github.com/categories.html
+http://yukop.github.com/index.html
+http://yukop.github.com/pages.html
+http://yukop.github.com/sitemap.txt
+http://yukop.github.com/tags.html
+
+http://yukop.github.com/selfstudy/2012/10/05/helloworld
+http://yukop.github.com/lessons/2011/12/29/jekyll-introduction
