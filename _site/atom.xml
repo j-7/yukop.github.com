@@ -4,7 +4,7 @@
  <title>YukoDays</title>
  <link href="http://yukop.github.com/atom.xml" rel="self"/>
  <link href="http://yukop.github.com"/>
- <updated>2012-10-05T01:08:55+09:00</updated>
+ <updated>2012-10-05T01:12:40+09:00</updated>
  <id>http://yukop.github.com</id>
  <author>
    <name>Yuko Honda</name>
@@ -13,10 +13,20 @@
 
  
  <entry>
-   <title>Helloworld</title>
-   <link href="http://yukop.github.com/selfstudy/2012/10/05/helloworld"/>
+   <title>Test</title>
+   <link href="http://yukop.github.com/selfstudy/2012/10/05/test"/>
    <updated>2012-10-05T00:00:00+09:00</updated>
-   <id>http://yukop.github.com/selfstudy/2012/10/05/helloworld</id>
+   <id>http://yukop.github.com/selfstudy/2012/10/05/test</id>
+   <content type="html">&lt;h2 id='id2'&gt;てすと&lt;/h2&gt;
+
+&lt;p&gt;でけたっぽい。ローカルでファイル作ってaddしてcommitしてpushすればいいの？&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Helloworld</title>
+   <link href="http://yukop.github.com/selfstudy/2012/10/04/helloworld"/>
+   <updated>2012-10-04T00:00:00+09:00</updated>
+   <id>http://yukop.github.com/selfstudy/2012/10/04/helloworld</id>
    <content type="html">&lt;h2 id='hello_world'&gt;Hello World!&lt;/h2&gt;
 
 &lt;p&gt;Jekyll と GitHub Pages でブログするよー！&lt;/p&gt;
