@@ -45,7 +45,7 @@ tags : [hiking, journal, outdoor]
 
 ケーブルカー駅おりたとこに貼ってあった「江戸時代の大山」ポスターみたら山中、神社と寺だらけだった。山岳信仰の場所だったのねー。
 
-* [大山信仰] (http://goo.gl/hMUZF)
-* [今日の写真ぜんぶ] (https://plus.google.com/photos/106825171914368756519/albums/5796936774045558193)
+* [大山信仰](http://goo.gl/hMUZF)
+* [今日の写真ぜんぶ](https://plus.google.com/photos/106825171914368756519/albums/5796936774045558193)
 
 
