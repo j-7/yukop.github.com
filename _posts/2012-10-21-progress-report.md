@@ -17,7 +17,7 @@ markdown の練習も兼ねてるので、markdown の syntax おさらい。cod
 
 ### jekyll
 
-2週間くらい触ってなかったらローカルで jekyll を起動する方法からすでに忘れてた。
+2週間くらい触ってなかったらローカルで jekyll を起動する方法からすでに忘れてた。このブログは jekyll と GitHub Pages でできています。
 
 	$ jekyll --server --auto
 
@@ -28,7 +28,7 @@ Google App Engine と Python で Twitter bot つくりたい計画。ってこ�
 [astral 0.6.2](http://pypi.python.org/pypi/astral/) というぴったりな Package を見つけたのでそれをつかってる。
 月齢の数字だけじゃなくて、呼び名がある場合はそれもつぶやくようにした。「わーい、三日月だよー」とかそういうの。
 
-日の出と日没の時間も tweet したいんだ。`sunrise()` とか `sunset()` とかあるからいけるはず。Tokyo 基準になっちゃうけど。
+日の出と日没の時間も tweet したいんだ。`sunrise()` とか `sunset()` とかあるからいけるはず。どこかの city を基準にする必要があるのでわたしの都合により Tokyo になっちゃうけど。
 
 16人の Follower のみなさま、できそこないを生暖かく見守ってくれてありがとう。「テストなしでいきなり本番ってすごいよね。いや、いいと思う。」と先輩に呆れられたりした。テスト…ほほう……  
 これはテストも含めてエンタテインメントなのです！（キリッ（ごめんなさい
@@ -51,16 +51,16 @@ Application の Deploy.
 
 
 ### geeklatte.com
-DECONCEPTER 氏からのリクエストで jsonp 吐くようにした。 
+DECONCEPTER 氏からのリクエストで JSONP 吐くようにした。 
 Flickr API の場合、
 
 	format=json&nojsoncallback=1
 
-これだと json 形式で、
+これだと JSON 形式で、
 
 	format=json&jsoncallback=getGeeklatte
 
-これだと callback 関数名指定して jsonp で出力。
+これだと callback 関数名指定して JSONP で出力。
 
 * [geeklatte_all.js](http://geeklatte.com/geeklatte_all.js)
 
