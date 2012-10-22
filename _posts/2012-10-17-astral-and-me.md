@@ -6,8 +6,8 @@ tags : [progressreport, selfstudy, twitter, geeklatte]
 ## astral and me
 
 ### Twitter bot
-月齢を淡々とつぶやく Twitter bot [@moonphase_bot](https://twitter.com/moonphase_bot) さんですが、"moon phase calculate python" でぐぐって出てきたやつを使ってみたところ、なんだか計算がずれている。  
-でも、いいものをみつけたんだ！Python には astral っていう、sun とか moon とか関連の計算をしてくれる Package があるっぽい。pypi ってところにあったからきっと安心！
+月齢を淡々とつぶやく Twitter bot [@moonphase_bot](https://twitter.com/moonphase_bot) さんを育てているところなのですが、"moon phase calculate python" でぐぐって出てきたやつを使ってみたところ、なんだか計算がずれている。  
+でも、いいものをみつけた。astral っていう、sun とか moon とか関連の計算をしてくれる Package が pypi ってところにあったよ！安心安心！
 
 まずは覚えたての easy_install でインストールして Expample 通りにやってみる。
 
@@ -45,9 +45,7 @@ Tokyo の Sun の Dawn 把握！
 
 ソースコードね…ほほう……読みます…失礼しました。
 
-	$ sudo easy_install astral
-
-ッターン！で悦に入っている場合ではなかった。ダウンロードしてきたものをまるごとつっこんでおく場所を作るといいよ。へえー…cool...    
+`$ sudo easy_install astral` ッターン！で悦に入っている場合ではなかった。ダウンロードしてきたものをまるごとつっこんでおく場所を作るといいよ。へえー…cool...    
 あらためて [http://pypi.python.org/pypi/astral/](http://pypi.python.org/pypi/astral/) みると、ちゃんとここに Download っていうすごくわかりやすいボタンがあるじゃあないかッ！
 
 	>>> import datetime
@@ -76,7 +74,7 @@ Tokyo の Sun の Dawn 把握！
 
 `class Astral(object):` の下にある `def moon_phase(self, date, tz):`
 
-なんかふたつあったのね。で、
+なんかふたつあったのね。で、Astral のほうを試すと、
 
 	>>> print a.moon_phase()
 	Traceback (most recent call last):
@@ -94,12 +92,12 @@ Tokyo の Sun の Dawn 把握！
 	    day = date.day
 	AttributeError: 'NoneType' object has no attribute 'day'
 
-こっちの引数 date は city のとはちがうのか。
+こっちの引数 date は City のとはちがうのか。で、最終的には。
 
 	>>> print a.moon_phase(datetime.datetime.now(), None)
 	3
 
-うお！3 でた！三日月でたーーーー！わーーーー！めでたい！
+うお！3 でた！三日月でたーーーー！わーーーー！めでたい！ありがとうありがとう！
 
 city.moon_phase がなんでうまくいかないのかよくわからないけどそういうこともあるらしい。
 
