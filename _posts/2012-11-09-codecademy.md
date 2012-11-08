@@ -11,9 +11,9 @@ http://www.codecademy.com/courses/rock-paper-scissors/0?curriculum_id=4f4b35445c
 もっとすっきり書けそうだなって思ったけどこれ Part I ってことは今はないけどそのうち Part II もでてくるんだな？きっと。  
 
 あと残ってるのが、これ。
-* 9. Object-Oriented Programming - Project: Cash Register Part II （途中でとまってる）
-* 11. Recursion - Recursion in JavaScript
-* 11. Recursion - Project: Recursive Functions 
-* 12. Build a Blackjack Game, Final - Blackjack: Final Game
+* 9 Object-Oriented Programming - [Project: Cash Register Part II](http://www.codecademy.com/courses/cash-register-mark-ii?curriculum_id=4f4b35445cb288000300000c) （途中でとまってる） 
+* 11 Recursion - [Recursion in JavaScript](http://www.codecademy.com/courses/javascript-lesson-205?curriculum_id=4f4b35445cb288000300000c) 
+* 11 Recursion - [Project: Recursive Functions](http://www.codecademy.com/courses/javascript-lesson-149/0?curriculum_id=4f4b35445cb288000300000c)  
+* 12 Build a Blackjack Game, Final - [Blackjack: Final Game](http://www.codecademy.com/courses/blackjack-part-3?curriculum_id=4f4b35445cb288000300000c) 
 
 今週末で終わらせたいなー。
