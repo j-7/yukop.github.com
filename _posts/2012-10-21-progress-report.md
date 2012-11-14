@@ -42,13 +42,18 @@ Google App Engine と Python で Twitter bot つくりたい計画。ってこ�
 
 というわけであっぺんじんだけど、これも忘れるのでメモ。Development Web Server の開始。
 
-	dev_appserver.py 俺ぺんじん
+{% highlight perl %}
+dev_appserver.py 俺ぺんじん
+{% endhighlight %}
 
 デフォルトの port 番号は 8080 で、`dev_appserver.py --port=9999 俺ぺんじん` とかすると port 指定できる。その他 option は[あっぺんじんのドキュメント](https://developers.google.com/appengine/docs/python/tools/devserver?hl=en) みる。
 
 Application の Deploy.
 
-	appcfg.py update 俺ぺんじん
+{% highlight perl %}
+appcfg.py update 俺ぺんじん
+{% endhighlight %}
+
 
 これも詳しくは[あっぺんじんのドキュメント](https://developers.google.com/appengine/docs/python/tools/uploadinganapp?hl=en)みる。
 
@@ -57,11 +62,15 @@ Application の Deploy.
 DECONCEPTER 氏からのリクエストで JSONP 吐くようにした。 
 Flickr API の場合、
 
-	format=json&nojsoncallback=1
+{% highlight perl %}
+format=json&nojsoncallback=1
+{% endhighlight %}
 
 これだと JSON 形式で、
 
-	format=json&jsoncallback=getGeeklatte
+{% highlight perl %}
+format=json&jsoncallback=getGeeklatte
+{% endhighlight %}
 
 これだと callback 関数名指定して JSONP で出力。
 
