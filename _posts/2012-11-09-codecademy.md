@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [selfstudy, codecademy, javascript, progressreport]
+title: "Rock, Paper, Scissors: Part I 終わった"
+date: 2012-11-09
+comments: false
 ---
 ## Rock, Paper, Scissors: Part I 終わった
 

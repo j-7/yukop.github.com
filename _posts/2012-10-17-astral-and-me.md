@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [progressreport, selfstudy, twitter, geeklatte]
+title: "astral and me"
+date: 2012-10-17
+comments: false
 ---
 ## astral and me
 

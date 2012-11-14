@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [selfstudy, javascript, codecademy]
+title: "Project: Recursive Functions "
+date: 2012-11-13
+comments: false
 ---
 ## Project: Recursive Functions 
 

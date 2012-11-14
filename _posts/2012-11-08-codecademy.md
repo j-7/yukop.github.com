@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [selfstudy, codecademy, javascript, progressreport]
+title: "More Fun with Arrays 終わった"
+date: 2012-11-08
+comments: false
 ---
 ## More Fun with Arrays 終わった
 

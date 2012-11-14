@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [progressreport, selfstudy, twitter, geeklatte]
+title: "日報はじめます"
+date: 2012-10-21
+comments: false
 ---
 ## 日報はじめます
 

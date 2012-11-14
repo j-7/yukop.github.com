@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [progressreport, selfstudy, geeklatte]
+title: "日報ヲ書クト云フ事"
+date: 2012-10-22
+comments: false
 ---
 ## 日報ヲ書クト云フ事
 

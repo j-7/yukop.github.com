@@ -2,6 +2,9 @@
 layout: post
 category : selfstudy
 tags : [selfstudy, jekyll, github]
+title: "Hello World!"
+date: 2012-10-04
+comments: false
 ---
 ## Hello World!
 

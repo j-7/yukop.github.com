@@ -2,6 +2,9 @@
 layout: post
 category : journal
 tags : [journal, eyewear, megane]
+title: "眼鏡情報メモ 2012"
+date: 2012-09-27
+comments: false
 ---
 ## 眼鏡情報メモ 2012
 

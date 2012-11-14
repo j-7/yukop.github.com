@@ -2,6 +2,9 @@
 layout: post
 category : journal
 tags : [journal]
+title: "1st anniversary of megsato's death"
+date: 2012-11-01
+comments: false
 ---
 ## 1st anniversary of megsato's death
 
