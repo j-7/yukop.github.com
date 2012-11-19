@@ -44,7 +44,7 @@ change = 18.94;
 makeChange(coinNames, currency, 0);
 {% endhighlight %}
 
-なぜ `++` って書いてたかというと、codecademy の[別のコース](http://www.codecademy.com/courses/javascript-lesson-149/0?curriculum_id=4f4b35445cb288000300000c#!/exercises/1)で出てきて、1減らしたいときここは `--` とも書けるぜ。これちょっと自慢できるぜ。って書いてあったんだよなー。でもそれは引数として使っているんじゃなくて、一度 -- したあとに呼んでるのだった。
+なぜ `++` って書いてたかというと、codecademy の[別のコース](http://www.codecademy.com/courses/javascript-lesson-149/0?curriculum_id=4f4b35445cb288000300000c#!/exercises/1)で出てきて、1減らしたいときここは `--` とも書けるぜ。これちょっと自慢できるぜ。って書いてあったんだよなー。これ。
 
 {% highlight perl %}
 function makeRobots(robotsNeeded){
@@ -62,8 +62,10 @@ function makeRobots(robotsNeeded){
 makeRobots(2);
 {% endhighlight %}
 
-これこれ。Knowing this will impress your programmer friends, and make you more attractive to people in general. とかいわれたら使ってみたくなるじゃんね！使いどころ間違ってたけどな。
-でもよくわかんなくてぶつぶつ言ってたら Twitter で教えてもらった。pre-increment と post-increment ってどう違うの！サイ本の説明よくわかんなかった！
+ここでは、`robotsNeeded = robotsNeeded -1` と `robotsNeeded--` は同じ、という話で、`robotsNeeded -1` と `robotsNeeded--` は同じではないのだけど、そこをカンチガイしていたのだった。
+
+Knowing this will impress your programmer friends, and make you more attractive to people in general. とかいわれたら使ってみたくなるじゃんね！  
+よくわかんなくてぶつぶつ言ってたら Twitter で教えてもらった。pre-increment と post-increment ってどう違うの！サイ本の説明よくわかんなかった！  
 
 さださん(@sada_h) の [https://gist.github.com/4088752](https://gist.github.com/4088752) 見て、実行してみて、理解した。
 
