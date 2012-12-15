@@ -17,7 +17,7 @@ comments: false
 
 ここの、該当する Application の Main の Logs ってとこ。  
 
-import json で、 No module named json て言われてた！
+import json でエラーが出て No module named json て言われてた！
 App Engine には json てモジュールは入ってないのね。ローカルにはインストールしてたので、ローカルで実行してうまくいってたから気づかなかったのだった。
 App Engine にはほとんど標準モジュールしか入ってないと思って気をつけたほうがよさそうね。
 
