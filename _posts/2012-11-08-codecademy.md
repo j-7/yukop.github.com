@@ -6,7 +6,6 @@ title: "More Fun with Arrays 終わった"
 date: 2012-11-08
 comments: false
 ---
-## More Fun with Arrays 終わった
 
 先週、日報書けるような活動ができなかったので、リハビリのため Codecademy.  
 JavaScript Fundamentals の [More Fun with Arrays](http://www.codecademy.com/courses/working-with-indexed-associate-and-multi-dimensional-arrays) がおわったー。  

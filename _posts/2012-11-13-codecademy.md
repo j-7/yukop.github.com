@@ -6,7 +6,6 @@ title: "Project: Recursive Functions "
 date: 2012-11-13
 comments: false
 ---
-## Project: Recursive Functions 
 
 Codecademy で [Project: Recursive Functions](http://www.codecademy.com/courses/javascript-lesson-149/0) が終わった。
 コンピュータに5枚の手札を配って、その中に特定のカードがあるかどうか当てるゲーム。ここまでは順調！

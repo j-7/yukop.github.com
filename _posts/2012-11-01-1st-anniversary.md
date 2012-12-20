@@ -6,7 +6,6 @@ title: "1st anniversary of megsato's death"
 date: 2012-11-01
 comments: false
 ---
-## 1st anniversary of megsato's death
 
 ![線香花火4連](http://farm9.staticflickr.com/8185/8144640135_d0e1eff752_z.jpg)
 

@@ -6,7 +6,6 @@ title: "Hello World!"
 date: 2012-10-04
 comments: false
 ---
-## Hello World!
 
 Jekyll と GitHub Pages でブログするよー！
 

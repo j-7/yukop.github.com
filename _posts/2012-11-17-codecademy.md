@@ -6,7 +6,6 @@ title: "Cash Register Part II"
 date: 2012-11-17
 comments: false
 ---
-## Cash Register Part II
 
 ひゃっほう！！Codecademy で [Cash Register Part II](http://www.codecademy.com/courses/cash-register-mark-ii/) おわったぜ！ 
 

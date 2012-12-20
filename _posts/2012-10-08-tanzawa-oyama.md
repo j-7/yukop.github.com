@@ -6,7 +6,6 @@ title: "Mountain Hiking at Tanzawa-Oyama"
 date: 2012-10-08
 comments: false
 ---
-## Mountain Hiking at Tanzawa-Oyama
 
 まず最初にいままでの山歩き歴、大人編を振り返っておきます。
 

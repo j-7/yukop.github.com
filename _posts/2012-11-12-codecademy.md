@@ -6,7 +6,6 @@ title: "Recursion in JavaScript "
 date: 2012-11-12
 comments: false
 ---
-## Recursion in JavaScript 
 
 Codecademy で [Recursion in JavaScript](http://www.codecademy.com/courses/javascript-lesson-205) が終わった！手ごわかった！
 

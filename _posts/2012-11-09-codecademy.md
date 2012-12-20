@@ -6,8 +6,6 @@ title: "Rock, Paper, Scissors: Part I 終わった"
 date: 2012-11-09
 comments: false
 ---
-## Rock, Paper, Scissors: Part I 終わった
-
 JavaScript Fundamentals の [Rock, Paper, Scissors: Part I](http://www.codecademy.com/courses/rock-paper-scissors/0?curriculum_id=4f4b35445cb288000300000c) ジャンケン小僧おわったよ！  
 もっとすっきり書けそうだなって思ったけどこれ Part I ってことは今はないけどそのうち Part II もでてくるんだな？きっと。  
 

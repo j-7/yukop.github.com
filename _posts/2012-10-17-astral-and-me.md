@@ -6,9 +6,8 @@ title: "astral and me"
 date: 2012-10-17
 comments: false
 ---
-## astral and me
 
-### Twitter bot
+## Twitter bot
 月齢を淡々とつぶやく Twitter bot [@moonphase_bot](https://twitter.com/moonphase_bot) さんを育てているところなのですが、"moon phase calculate python" でぐぐって出てきたやつを使ってみたところ、なんだか計算がずれている。  
 でも、いいものをみつけた。astral っていう、sun とか moon とか関連の計算をしてくれる Package が pypi ってところにあったよ！安心安心！
 
