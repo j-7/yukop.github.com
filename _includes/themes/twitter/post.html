@@ -7,14 +7,16 @@
     {{ content }}
 
     <hr>
-    <script src="https://apis.google.com/js/plusone.js">
+    <script src="https://apis.google.com/js/plusone.js"></script>
+    <div id="comments"></div>
+    <script>
+    gapi.comments.render('comments', {
+        href: window.location,
+        width: '620',
+        first_party_property: 'BLOGGER',
+        view_type: 'FILTERED_POSTMOD'
+    });
     </script>
-    <div class="g-comments"
-        data-href="[URL]"
-        data-width="620"
-        data-first_party_property="BLOGGER"
-        data-view_type="FILTERED_POSTMOD">
-    </div>
     <hr>
 
     <div class="pagination">
