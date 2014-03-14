@@ -2,12 +2,12 @@
 layout: post
 category : immigration
 tags : [immigration, movie]
-title: "浮草日記 2月め Ballet Academy鑑賞"
+title: "浮草日記 2月め Dance Academy 鑑賞"
 date: 2014-03-14
 comments: false
 ---
 
-Netflix でみはじめてハマりつつあるオーストラリア発テレビドラマ、Ballet Academy がおもしろい。バレエ漫画を彷彿とさせるベタな展開なのだけど、そこが良いのです。Season 1: Episode 4 までみたところ。
+Netflix でみはじめてハマりつつあるオーストラリア発テレビドラマ、[Dance Academy](http://en.wikipedia.org/wiki/Dance_Academy) がおもしろい。バレエ漫画を彷彿とさせるベタな展開なのだけど、そこが良いのです。Season 1: Episode 4 までみたところ。
 
 田舎の牧場で育ったバレエ大好き少女が、都会の名門ダンス学校でがんばるお話。友情なのか罠なのかの見極めでハラハラしたり、すてきな上級生に胸キュンしたり、寮の規則を破って夜に抜け出してオーディションが無効になりそうなところなぜか不良少女に助け舟を出され一命をとりとめたり、優等生のルームメイトとの嫌がらせが白熱したり。有吉京子の『SWAN』とか山岸凉子の『アラベスク』を読んだ人にはたまらないと思います。そういえば「トウシューズに画鋲」の元ネタって高橋真琴（おひめさまえほん！）の「のろわれたコッペリア」らしい。と[ここ](http://dorianjesus.cocolog-nifty.com/pyon/2013/09/post-dcb6.html)など何箇所かに書いてあったんだけどそれより去年京都でこんな展覧会やってたのか……！うおぉぉぉ…
 
