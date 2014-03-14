@@ -22,6 +22,6 @@ Netflix でみはじめてハマりつつあるオーストラリア発テレビ
 * Lucinda Raine / Tara Morice - 厳しい先生。 
 
 
-みんな Instagram やってるんだなあ。他のキャストと一緒の写真もありプライベート写真もあり、ドラマとソーシャルメディアをパラレルで楽しめていいね。
+みんな Instagram やってるんだなあ。名前のとこからリンクはっといた。他のキャストと一緒の写真もありプライベート写真もあり、ドラマとソーシャルメディアをパラレルで楽しめていいね。
 
 ![Dance Academy](https://lh4.googleusercontent.com/-Q9tGrvMWoFU/UyOECrFoTjI/AAAAAAAB8iU/qpZQ4qvl598/w620-h465-no/14+-+1)
