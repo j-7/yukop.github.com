@@ -1,7 +1,7 @@
 ---
 layout: post
-category : immigration
-tags : [immigration, gardening]
+category : migration
+tags : [migration, gardening]
 title: "浮草日記 2月め レッスン 3-15 植物を育てよう"
 date: 2014-03-29
 comments: false

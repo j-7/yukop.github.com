@@ -1,7 +1,7 @@
 ---
 layout: post
-category : immigration
-tags : [immigration, english]
+category : migration
+tags : [migration, english]
 title: "浮草日記 3月め 英語の勉強いろいろ"
 date: 2014-04-07
 comments: false

@@ -1,7 +1,7 @@
 ---
 layout: post
-category : immigration
-tags : [immigration, movie]
+category : migration
+tags : [migration, movie]
 title: "浮草日記 2月め Dance Academy 鑑賞"
 date: 2014-03-14
 comments: false

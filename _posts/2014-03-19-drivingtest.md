@@ -1,7 +1,7 @@
 ---
 layout: post
-category : immigration
-tags : [immigration, movie]
+category : migration
+tags : [migration, movie]
 title: "浮草日記 2月め レッスン 3-8 運転免許の実技試験"
 date: 2014-03-19
 comments: false

@@ -1,7 +1,7 @@
 ---
 layout: post
-category : immigration
-tags : [immigration, job]
+category : migration
+tags : [migration, job]
 title: "浮草日記 2月め レッスン 3-1 はじめてのジョブインタビュー"
 date: 2014-03-05
 comments: false

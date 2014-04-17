@@ -1,7 +1,7 @@
 ---
 layout: post
-category : immigration
-tags : [immigration, ballet]
+category : migration
+tags : [migration, ballet]
 title: "浮草日記 2月め レッスン 3-3 バレエクラスに行ってきた"
 date: 2014-03-06
 comments: false
