@@ -1,7 +1,7 @@
 ---
 layout: post
 category : automobile
-tags : [automobile]
+tags : [automobile, insurance]
 title: "車をぶつけてから1ヶ月間の記録"
 date: 2014-05-21
 comments: false
