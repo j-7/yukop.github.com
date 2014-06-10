@@ -1,8 +1,8 @@
 ---
 layout: post
-category : migration
-tags : [migration, gardening]
-title: "浮草日記 5月め ようこそ子猫ちゃんたち"
+category : cats
+tags : [cats]
+title: "ようこそ子猫ちゃんたち"
 date: 2014-06-04
 comments: false
 ---
