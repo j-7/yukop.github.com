@@ -5,6 +5,8 @@ permalink: /:year/:month/:day-:title.html
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: false
 pygments: true
+paginate: 3 # the number of post per page
+markdown: kramdown
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -12,7 +14,7 @@ pygments: true
 title : YukoDays
 tagline: TBD
 author :
-  name : Yuko Honda
+  name : Yuko Honda Morita
   email : yucolline@gmail.com
   github : yukop
   twitter : yukop
@@ -72,7 +74,7 @@ JB :
   #
   archive_path: /archive.html
   #categories_path : /categories.html
-  #tags_path : /tags.html
+  tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -124,5 +126,5 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  markdown: kramdown
+
   
