@@ -1,5 +1,6 @@
+
 <h4>Author</h4>
-<p><strong>Yuko Honda Morita (yukop)</strong><br>
+<p><strong>Yuko Honda Morita (yukop) : <a href="http://yukop.com">yukop.com</a></strong><br>
   飯能→東京→シリコンバレー。夫と猫2匹と暮らしてます。作ったり学んだり踊ったりするのが好き。<br>
   Born in Japan, living in California with my husband and two cats. "A bit of a geek and a bit of a geek fan and a bit of an artist." <a href="http://youtu.be/EBRMq2Ioxsc?t=1m23s">-></a></p>
 <!-- Place this tag where you want the widget to render. -->
@@ -19,6 +20,7 @@
   {% for post in site.posts limit:10 %}
     <li><span>{{ post.date | date: "%F" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+    <li><a href="/archive.html">Archive</a></li>
 </ul>
 
 <h4>Tags</h4>
