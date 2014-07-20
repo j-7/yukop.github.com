@@ -1,7 +1,7 @@
 ---
 layout: post
-category : journal
-tags : [english]
+category : ja
+tags : [english, journal]
 title: "英語メモ: I'm Getting Off"
 date: 2014-05-23
 comments: false

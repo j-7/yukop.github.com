@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, library, swimming]
 title: "浮草日記 2月め レッスン 3-14 図書館とプール"
 date: 2014-03-28

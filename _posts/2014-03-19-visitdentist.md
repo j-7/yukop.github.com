@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, movie]
 title: "浮草日記 2月め レッスン 3-9 歯医者の予約"
 date: 2014-03-19

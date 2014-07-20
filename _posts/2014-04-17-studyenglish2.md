@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, english]
 title: "浮草日記 3月め 続・英語の勉強いろいろ"
 date: 2014-04-17

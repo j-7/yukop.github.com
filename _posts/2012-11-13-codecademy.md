@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, javascript, codecademy]
 title: "Project: Recursive Functions "
 date: 2012-11-13

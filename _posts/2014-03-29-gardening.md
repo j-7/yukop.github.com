@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, gardening]
 title: "浮草日記 2月め レッスン 3-15 植物を育てよう"
 date: 2014-03-29

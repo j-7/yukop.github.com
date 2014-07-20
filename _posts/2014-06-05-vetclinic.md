@@ -1,6 +1,6 @@
 ---
 layout: post
-category : cats
+category : ja
 tags : [cats]
 title: "子猫ちゃんたち病院へ行く"
 date: 2014-06-05

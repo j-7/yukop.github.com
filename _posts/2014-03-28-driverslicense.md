@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, automobile, dmv]
 title: "浮草日記 2月め レッスン 3-12 運転免許証が届いた"
 date: 2014-03-28

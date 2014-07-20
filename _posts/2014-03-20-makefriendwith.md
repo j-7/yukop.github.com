@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, social]
 title: "浮草日記 2月め レッスン 3-10 ともだちづくり"
 date: 2014-03-20

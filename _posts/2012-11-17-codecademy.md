@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, javascript, codecademy]
 title: "Cash Register Part II"
 date: 2012-11-17

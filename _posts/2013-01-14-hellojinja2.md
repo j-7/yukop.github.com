@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, python]
 title: "Hello Jinja2"
 date: 2013-01-14

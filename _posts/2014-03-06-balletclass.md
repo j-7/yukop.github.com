@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, ballet]
 title: "浮草日記 2月め レッスン 3-3 バレエクラスに行ってきた"
 date: 2014-03-06

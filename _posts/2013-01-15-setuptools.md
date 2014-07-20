@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, python, sakura]
 title: "setuptools がインストールできないよメモ (1)"
 date: 2013-01-15

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : journal
+category : ja
 tags : [journal, movie]
 title: "映画『レ・ミゼラブル』を観た"
 date: 2013-01-23

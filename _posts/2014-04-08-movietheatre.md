@@ -1,7 +1,7 @@
 ---
 layout: post
-category : migration
-tags : [migration, english]
+category : ja
+tags : [migration, english, movie]
 title: "浮草日記 3月め 映画館へ行ってきた"
 date: 2014-04-08
 comments: false

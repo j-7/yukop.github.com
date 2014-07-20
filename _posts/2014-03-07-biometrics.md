@@ -1,7 +1,7 @@
 ---
 layout: post
-category : migration
-tags : [migration, ead]
+category : ja
+tags : [migration, ead, startingup]
 title: "浮草日記 2月め レッスン 3-4 労働許可証のための本人認証"
 date: 2014-03-07
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : handicraft
+category : ja
 tags : [handicraft]
 title: "ギーク手芸 2012 A/W"
 date: 2012-10-24

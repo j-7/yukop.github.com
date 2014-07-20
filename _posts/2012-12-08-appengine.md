@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, python, gaeja, twitter]
 title: "@geeklatte_botが病気だった"
 date: 2012-12-08

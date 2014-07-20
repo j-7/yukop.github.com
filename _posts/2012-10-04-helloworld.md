@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, jekyll, github]
 title: "Hello World!"
 date: 2012-10-04

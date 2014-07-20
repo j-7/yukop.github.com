@@ -1,6 +1,6 @@
 ---
 layout: post
-category : automobile
+category : ja
 tags : [automobile, insurance]
 title: "車をぶつけてから1ヶ月間の記録"
 date: 2014-05-21

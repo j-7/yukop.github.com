@@ -1,6 +1,6 @@
 ---
 layout: post
-category : cats
+category : ja
 tags : [cats]
 title: "ようこそ子猫ちゃんたち"
 date: 2014-06-04

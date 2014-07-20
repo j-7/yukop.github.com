@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, job]
 title: "浮草日記 2月め レッスン 3-1 はじめてのジョブインタビュー"
 date: 2014-03-05

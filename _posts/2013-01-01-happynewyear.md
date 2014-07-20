@@ -1,7 +1,7 @@
 ---
 layout: post
-category : journal
-tags : [journal]
+category : ja
+tags : [journal, stopmotion, animation]
 title: "happy new year 2013"
 date: 2013-01-01
 comments: false

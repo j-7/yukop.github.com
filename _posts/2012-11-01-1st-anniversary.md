@@ -1,6 +1,6 @@
 ---
 layout: post
-category : journal
+category : ja
 tags : [journal]
 title: "1st anniversary of megsato's death"
 date: 2012-11-01

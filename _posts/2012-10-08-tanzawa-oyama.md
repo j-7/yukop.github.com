@@ -1,6 +1,6 @@
 ---
 layout: post
-category : journal
+category : ja
 tags : [hiking, journal, outdoor]
 title: "Mountain Hiking at Tanzawa-Oyama"
 date: 2012-10-08

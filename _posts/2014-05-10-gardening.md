@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, gardening]
 title: "浮草日記 4月め たのしい庭仕事"
 date: 2014-05-10

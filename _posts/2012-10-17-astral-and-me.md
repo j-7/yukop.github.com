@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [progressreport, selfstudy, twitter, geeklatte]
 title: "astral and me"
 date: 2012-10-17

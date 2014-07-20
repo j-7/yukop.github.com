@@ -1,6 +1,6 @@
 ---
 layout: post
-category : journal
+category : ja
 tags : [music]
 title: "Steely Dan Concert @ The Mountain Winery"
 date: 2014-07-08

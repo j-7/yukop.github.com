@@ -1,6 +1,6 @@
 ---
 layout: post
-category : migration
+category : ja
 tags : [migration, goout]
 title: "浮草日記 3月め Santa Cruz へドライブ"
 date: 2014-04-05

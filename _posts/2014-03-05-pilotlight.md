@@ -1,7 +1,7 @@
 ---
 layout: post
-category : migration
-tags : [migration, apartment]
+category : ja
+tags : [migration, apartment, startingup]
 title: "浮草日記 2月め レッスン 3-2 ガスヒーターのつきっぱなし種火"
 date: 2014-03-05
 comments: false

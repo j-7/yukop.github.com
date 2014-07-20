@@ -1,6 +1,6 @@
 ---
 layout: post
-category : selfstudy
+category : ja
 tags : [selfstudy, googleplus]
 title: "ブログにGoogle+ commentsを追加してみたよ"
 date: 2013-04-22
