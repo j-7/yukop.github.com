@@ -73,3 +73,5 @@ comments: false
 
 ## 今月の感想
 フレーズごと覚えるの、たのしい。本が読めるようになってきたのは、うれしい。Coursera が字幕なしでわかるのも、うれしい。学校は、1学期2ヶ月弱なので「よぉしがんばった！」という手応えはそんなにないけど、話す機会ができるし知り合いもできるし、行ってよかった、とても。
+
+![learning](https://lh5.googleusercontent.com/-QvF8r_rGcbU/U7s9deFMu9I/AAAAAAACRaA/MxdVXw4qbQw/w620-h826-no/P1190523.JPG)
