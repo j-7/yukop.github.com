@@ -17,28 +17,19 @@
 
 <h4>Latest Posts</h4>
 
-<h5>Japanese</h5>
+<h5><a href="/categories/ja/">Japanese</a></h5>
 <ul class="posts">
   {% for post in site.categories["ja"] limit:7 %}
     <li><span>{{ post.date | date: "%F" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-    <li><a href="/archive.html">Archive</a></li>
 </ul>
 
-<h5>English</h5>
+<h5><a href="/categories/en/">English</a></h5>
 <ul class="posts">
   {% for post in site.categories["en"] limit:7 %}
     <li><span>{{ post.date | date: "%F" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
-<h5>Chronological Archive</h5>
-<ul class="posts">
-  <li><a href="/archive.html">Archive</a></li>
-</ul>
-
-<h4>Tags</h4>
-<ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
-  {% include JB/tags_list %}
-</ul>
+<h4><a href="/archive.html">Chronological Archive</a></h4>
+<h4><a href="tags.html">Tags</a></h4>
