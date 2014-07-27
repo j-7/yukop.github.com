@@ -17,14 +17,14 @@
 
 <h4>Latest Posts</h4>
 
-<h5><a href="/categories/ja/">Japanese</a></h5>
+<h5>Japanese</h5>
 <ul class="posts">
   {% for post in site.categories["ja"] limit:7 %}
     <li><span>{{ post.date | date: "%F" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
-<h5><a href="/categories/en/">English</a></h5>
+<h5>English</h5>
 <ul class="posts">
   {% for post in site.categories["en"] limit:7 %}
     <li><span>{{ post.date | date: "%F" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
@@ -32,4 +32,4 @@
 </ul>
 
 <h4><a href="/archive.html">Chronological Archive</a></h4>
-<h4><a href="tags.html">Tags</a></h4>
+<h4><a href="/tags.html">Tags</a></h4>
