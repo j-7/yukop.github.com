@@ -2,7 +2,7 @@
 layout: post
 category : en
 tags : [cooking]
-title: "Dumplings recipe"
+title: "How to Make Dumplings From Scratch"
 date: 2014-07-29
 comments: false
 ---
