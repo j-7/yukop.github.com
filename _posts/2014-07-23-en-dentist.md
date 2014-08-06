@@ -1,7 +1,7 @@
 ---
 layout: post
 category : en
-tags : [health]
+tags : [medical]
 title: "Going to See a Dentist"
 date: 2014-07-23
 comments: false
