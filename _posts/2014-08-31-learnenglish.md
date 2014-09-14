@@ -7,6 +7,7 @@ date: 2014-08-31
 comments: false
 ---
 
+![Classroom](https://lh3.googleusercontent.com/-GY7YcsGZiLY/VBT0mvfz2sI/AAAAAAACW_k/kEPjrvTCA0M/w620-h413-no/DSC01169.JPG)
 
 [前回のレビューと計画](/2014/07/21-learnenglish.html)から1ヶ月、渡米から6ヶ月半経過。ついに仕事が決まりました、うれしいなあ。就職活動について詳しくは別記事にて書く予定。
 
