@@ -1,4 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(http://fonts.googleapis.com/css?family=Sancreek);
+@import url(http://fonts.googleapis.com/css?family=Sail|Walter+Turncoat|Love+Ya+Like+A+Sister|Sancreek|Miltonian+Tattoo);
 
 body {
 	font-family: 'Noto Sans', sans-serif;
@@ -6,6 +9,7 @@ body {
 header {
 	margin-top: 20px;
 	overflow: auto;
+	position: relative;
 }
 .page-header {
 	margin-top: 80px;
@@ -16,15 +20,24 @@ header {
 .content{
 	margin-top: 0;
 }
+p.siteTitle{
+	margin: 0 0 30px;
+	float: left;
+	/*font-family: 'Fredericka the Great', cursive;*/
+	font-family: 'Sancreek', cursive;
+	font-size: 60px;
+	line-height: 1.1;
+}
+
+p.siteTitle a {color: #000;}
+p.siteTitle a:hover {text-decoration: none;}
 .brand img {
-	width: 60%;
+	display: none;
 	float: left;
 }
 .illust img {
-	width: 20%;
-	float: right;
+	width: 100%;
 }
-
 h1:first-child,
 .page-header:first-child{
 	margin-top: 0 !important;
