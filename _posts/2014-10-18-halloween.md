@@ -19,4 +19,4 @@ At a later date I heard that it might be a Halloween decoration from a friend. I
 Afterwards, I came to enjoy going for a walk to look for Halloween decorations. I especially love furry spiders, but I don't want to see skeletons around my neighborhood at night.:P
 
 ![Skeleton](https://lh4.googleusercontent.com/-EzTY7_gUrJU/VEiLAyWUvvI/AAAAAAACaX8/5M_CNVFjWxQ/w822-h548-no/DSC02225.JPG)
-![Spider](https://lh4.googleusercontent.com/Tft8A5KpXASYei3DQy5v9cLkJHfqbdfZD7IYIHXxiIPy=w720-h540-no)
+![Spider](https://lh4.googleusercontent.com/Tft8A5KpXASYei3DQy5v9cLkJHfqbdfZD7IYIHXxiIPy=w822-h548-no)
