@@ -6,7 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <meta name="author" content="{{ site.author.name }}">
-<meta property="og:url" content="http://yukop.github.io">
+<meta property="og:url" content="http://yukop.github.io{% if page.url %}{{ page.url }}{% endif %}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
 <meta property="og:image" content="http://yukop.github.io/images/siw.png">
 <link rel="alternate" type="application/atom+xml" title="yukop.github.com Atom Feed" href="/atom.xml">
 <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
