@@ -16,11 +16,11 @@ comments: false
 
 2016年の新シリーズに向けて盛り上がってたりするのかな、と思ってたけど、特別そんなことはなく、いつもどおり地元の人たちで賑わっているようだった。トイレの前の壁には、撮影風景の写真や当時の雑誌の切り抜きなどがたくさん張ってあり、さらに奥の扉には炎の絵とカチンコが描かれ"FIRE WALK TWIN PEAKS SEASON III coming in 2016"とある。おお。
 
-![Twede's Cafe](https://lh4.googleusercontent.com/-j-i-gEGH9Xw/VHDtlv0W70I/AAAAAAACdGs/F0cs0DBaLZs/w900-h600-no/14%2B-%2B1)
+![Twede's Cafe](https://lh4.googleusercontent.com/-j-i-gEGH9Xw/VHDtlv0W70I/AAAAAAACdGs/F0cs0DBaLZs/w1200-h900-no/14%2B-%2B1)
 
 これが！あの！チェリーパイ！屈託なく甘い。注文するとアイスクリームつける？と聞かれるけどここでYesと答えると想像とは違ったものがでてきて残念な思いをする、って誰かがブログで言ってたので、アイスクリームはなしで。
 
-![Cherry Pie](https://lh4.googleusercontent.com/-tmsKJl54zGY/VHDtlq_Wj7I/AAAAAAACdHE/VAmslZj2sNw/w900-h600-no/14%2B-%2B3)
+![Cherry Pie](https://lh4.googleusercontent.com/-tmsKJl54zGY/VHDtlq_Wj7I/AAAAAAACdHE/VAmslZj2sNw/w1200-h900-no/14%2B-%2B3)
 
 ## The Great Northern Hotel (Salish Lodge) & White Falls (Snoqualmie Falls)
 
@@ -32,22 +32,22 @@ comments: false
 
 Snoqualmieのおそらく2番めの観光名所であろう、Northwest Railway Museumの隣にある大きな丸太と古い列車（Northwest Railway Museumは、あとから気づいたけどクーパー捜査官がFBI停職になってツイン・ピークスで物件探しをしてるときの候補物件で使われてた）。ここにある線路は廃線かと思ってぶらぶら歩いたりしたけど、踏切はあるので使ってるのかしらんと不思議に思っていたら、11月後半から12月にはSanta Trainという観光列車がサンタと子供たちを乗せて走るとのこと。古い列車を囲む金網には説明書きのついた看板があり、それによると1900年代初頭に蒸気機関車が登場して、この街でも山から木材を運んだりカリフォルニアから果物を運んでくるのに機関車が大活躍だったらしい。
 
-![Old Trains](https://lh5.googleusercontent.com/-abbH2g3YG1c/VHIc8kipOsI/AAAAAAACdMU/acymc7b53TU/w900-h600-no/14%2B-%2B1)
+![Old Trains](https://lh5.googleusercontent.com/-abbH2g3YG1c/VHIc8kipOsI/AAAAAAACdMU/acymc7b53TU/w1200-h900-no/14%2B-%2B1)
 
-![Giant Log](https://lh3.googleusercontent.com/-H-kA3XOBtRk/VHuVMs_KLZI/AAAAAAACeYk/BdJY7xgKsLE/w900-h600-no/DSC02810.JPG)
+![Giant Log](https://lh3.googleusercontent.com/-H-kA3XOBtRk/VHuVMs_KLZI/AAAAAAACeYk/BdJY7xgKsLE/w1200-h900-no/DSC02810.JPG)
 
 ## Gazebo
 
 巨大丸太とMuseumの間にあった東屋。ドナ、ジェームズ、マギーが密会に使ってた場所に似てるなあと思ったけど、某地図によるとPilot版にのみ使われたとか。
 
-![Gazebo](https://lh3.googleusercontent.com/-6l3bEEBfilk/VHuVMrBOLkI/AAAAAAACeYk/JNI5qCwE8OA/w900-h600-no/DSC02819.JPG)
+![Gazebo](https://lh3.googleusercontent.com/-6l3bEEBfilk/VHuVMrBOLkI/AAAAAAACeYk/JNI5qCwE8OA/w1200-h900-no/DSC02819.JPG)
 
 
 ## White Tail Mountain & Blue Pine Mountain (Mt. Si)
 
 突然どどーんと不自然に切り立った山。これがTwin Peaksかあ。この山へ向かう道の途中に"Welcome to TWIN PEAKS"の看板がありそうだったので向かってみたけど、見つからず。向かう途中の道は対向車も前後にもほとんど誰もおらず、森に囲まれてすごく良かった。
 
-![Twin Peaks](https://lh5.googleusercontent.com/-nDJyg10j62Y/VHIDWrFZhRI/AAAAAAACdLU/qy2eqv7eP6s/w900-h600-no/14%2B-%2B1)
+![Twin Peaks](https://lh5.googleusercontent.com/-nDJyg10j62Y/VHIDWrFZhRI/AAAAAAACdLU/qy2eqv7eP6s/w1200-h900-no/14%2B-%2B1)
 
 ## 見つからなかった場所など
 
@@ -55,27 +55,27 @@ Sheriff's Station, Roadhouse, Ed's Gas Farm, Opening Sign など。でも見つ�
 
 ロネット・ポラスキーがふらふら歩いてた橋っぽい場所。
 
-![Bridge](https://lh3.googleusercontent.com/-nid3mCn9HBw/VHuh2EkQiQI/AAAAAAACeY4/P0cOOXHcckE/w900-h600-no/DSC02856.JPG)
+![Bridge](https://lh3.googleusercontent.com/-nid3mCn9HBw/VHuh2EkQiQI/AAAAAAACeY4/P0cOOXHcckE/w1200-h900-no/DSC02856.JPG)
 
 オープニングの看板がありそうでない道。
 
-![Twin Peaks Road](https://lh4.googleusercontent.com/-FXirocQMIB4/VHuiBj7n8FI/AAAAAAACeZA/6MrcVKKNIU4/w900-h600-no/DSC02869.JPG)
+![Twin Peaks Road](https://lh4.googleusercontent.com/-FXirocQMIB4/VHuiBj7n8FI/AAAAAAACeZA/6MrcVKKNIU4/w1200-h900-no/DSC02869.JPG)
 
 ところで、ここ1ヶ月ほど探していた Douglas Firはわっさわっさ生えていた。この毛の生えたまつぼっくりをこの目で見ることができるなんて感動。北カリフォルニアにおけるRed Woodと同じくらい、この辺りはDouglas Firだらけだった。西海岸ではクリスマスツリーにDouglas Firを使うらしい。
 
-![Douglas fir](https://lh3.googleusercontent.com/-Zde6ci0SeBk/VHGQ7dVREcI/AAAAAAACdJc/KKeW-yyiNGg/w900-h600-no/14%2B-%2B2)
+![Douglas fir](https://lh3.googleusercontent.com/-Zde6ci0SeBk/VHGQ7dVREcI/AAAAAAACdJc/KKeW-yyiNGg/w1200-h900-no/14%2B-%2B2)
 
 ## 旅の終わりに
 
 日が沈んだら、巡礼の旅もそろそろ終わり。どこかでコーヒーでも飲んで休憩したいね、とGoogle Mapsで検索して見つけたドライブスルーのコーヒー屋さん[Mercury's Coffee](http://www.mercuryscoffee.com/)が期待をはるかに上回る素敵な場所だった。フレンドリーな店員さんの笑顔とおだやかなカフェラテは、深い森を抜けてきて現実の世界に戻るのにちょうどいい。
 
-![Mercury's Coffee](https://lh6.googleusercontent.com/-uX098qhz4Vo/VHT7JEMm-VI/AAAAAAACd88/_3Ca7nu3UGk/w900-h600-no/DSC02887.JPG)
+![Mercury's Coffee](https://lh6.googleusercontent.com/-uX098qhz4Vo/VHT7JEMm-VI/AAAAAAACd88/_3Ca7nu3UGk/w1200-h900-no/DSC02887.JPG)
 
 ## 場所情報
 
 Twede's Cafeで買える Twin Peaksマップ、$2。マップがあることは事前に誰かのブログで読んでいたので、これを頼りに見て回るつもりだった。ただ、かなりざっくりした地図上にざっくりプロットされているだけで詳しい住所などは載っていないので、宝の地図みたいなものを想像してもらうのがよいかも。
 
-![Location Map](https://lh3.googleusercontent.com/-fXpciYsczdg/VHDtlqUpbyI/AAAAAAACdG4/zFW6OroV4uk/w900-h600-no/14%2B-%2B2)
+![Location Map](https://lh3.googleusercontent.com/-fXpciYsczdg/VHDtlqUpbyI/AAAAAAACdG4/zFW6OroV4uk/w1200-h900-no/14%2B-%2B2)
 
 
 もっとわかりやすい地図はこちら。これ見て回ったほうが正確な場所はわかりやすかったと思うけど、宝探しもなかなかよかったよ。
