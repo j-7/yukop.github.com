@@ -3,8 +3,8 @@
 #permalink: /:categories/:year/:month/:day/:title.html
 permalink: /:year/:month/:day-:title.html
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: false
-pygments: true
+# auto: false
+highlighter: pygments
 paginate: 3 # the number of post per page
 markdown: kramdown
 
