@@ -6,7 +6,7 @@ title: "Long Ridge でハイキング"
 date: 2015-03-07
 comments: false
 ---
-山道の運転にもだいぶ慣れてきたけど、自転車を追い抜かすときはやっぱり緊張する。うしろの車にぴったり付かれるのも、プレッシャーを感じてしまい、嫌なものだ。道幅が狭く見通しも悪いので、追い抜かしてもらおうにも、道がしばらくの間まっすぐになるか路肩に広いスペースがあるところまで待たなくてはいけない。この状況をポジティブに捉える方法はないものか。ドラクエで仲間を増やすみたいに、後ろをついてくる台数をどこまで増やせるかに挑戦するとか。などと話しているうちに35号線沿いの小さな駐車場に着いた。Long Ridge Open Space Preserve は、以前ガイドの人たちと歩いた Skyline Ridge より少し南寄りにあって、我が家からは車で約45分かかる。車を停め、インフォメーション看板に設置された紙の地図をもらう。本日のハイキング、スタート。
+山道の運転にもだいぶ慣れてきたけど、自転車を追い抜かすときはやっぱり緊張する。うしろの車にぴったり付かれるのも、プレッシャーを感じてしまい、嫌なものだ。道幅が狭く見通しも悪いので、追い抜かしてもらおうにも、道がしばらくの間まっすぐになるか路肩に広いスペースがあるところまで待たなくてはいけない。この状況をポジティブに捉える方法はないものか。ドラクエで仲間を増やすみたいに、後ろをついてくる台数をどこまで増やせるかに挑戦するとか。などと話しているうちに35号線沿いの小さな駐車場に着いた。[Long Ridge Open Space Preserve](http://www.openspace.org/preserves/pr_long_ridge.asp) は、以前ガイドの人たちと歩いた Skyline Ridge より少し南寄りにあって、我が家からは車で約45分かかる。車を停め、インフォメーション看板に設置された紙の地図をもらう。本日のハイキング、スタート。
 
 <div><img src="https://lh3.googleusercontent.com/-qUANaqiadiU/VPvcXhhsDGI/AAAAAAACmtY/oxN6hp9ayC4/w1200-h900-no/DSC04927.JPG" alt="Trailhead" width="50%"><img src="https://lh3.googleusercontent.com/-AAjOtpJavs8/VPvcXtis9hI/AAAAAAACmpA/MRgD9Vtg30g/w1200-h900-no/DSC04939.JPG" alt="Forest path" width="50%"></div>
 
