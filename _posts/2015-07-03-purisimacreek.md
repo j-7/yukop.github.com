@@ -1,7 +1,7 @@
 ---
 layout: post
 category : ja
-tags : [days, culture]
+tags : [hiking]
 title: "Purisima Creek の隠者ツグミ"
 date: 2015-07-03
 comments: false
