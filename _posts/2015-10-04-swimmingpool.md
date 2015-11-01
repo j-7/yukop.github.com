@@ -1,7 +1,7 @@
 ---
 layout: post
 category : ja
-tags : [travel]
+tags : [swimming]
 title: "シリコンバレー周辺スイミングプール巡り"
 date: 2015-10-04
 comments: false

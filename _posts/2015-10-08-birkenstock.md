@@ -1,7 +1,7 @@
 ---
 layout: post
 category : ja
-tags : [joural]
+tags : [journal, shopping]
 title: "やる気のない靴屋との戦い"
 date: 2015-10-08
 comments: false
