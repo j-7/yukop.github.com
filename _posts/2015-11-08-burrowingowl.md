@@ -21,3 +21,26 @@ BBQ 場のあたりをぷらぷらしてたらけっこうたくさん穴があ�
 
 * [Burrowing Owl Management Plan - City of Mountain View](http://www.mountainview.gov/depts/cs/shoreline/explore/owl.asp)
 * [近年数が減っていて CA州の Species of Special Concern に指定されているらしい](http://www.dfg.ca.gov/wildlife/nongame/ssc/)
+
+目撃地点は Baylands Park の緑色の右側のあたり。
+
+<iframe src="https://mapsengine.google.com/map/embed?mid=zgDx7HvEMgjA.kUdg3FpHuivs" width="640" height="480"></iframe>
+
+それにしてもだだっ広かった。Shoreline Park より全体的に茶色くて、荒涼としている。
+
+![Panorama](https://lh3.googleusercontent.com/Yt5bUsJfOoR_bZJfHpHAwfa_LkP3Mu0oAmJphWCiGHlLuOaACrKD=w1054-h300-p-no)
+
+Canada Goose（カナダグース）の群れ。
+
+![Canada Goose](https://lh3.googleusercontent.com/aAOjFMg4-rvb4M86csqzXgoLs2VIuuU7b6aa7k4IjuKNK9rH_ub2=w1200-h800-p-no)
+
+Black Phoebe（クロツキヒメハエトリ）。この子は街中の公園でもよく見るし、YMCAのプールでもおなじみ。
+
+![Black Phoebe](https://lh3.googleusercontent.com/Z5il0MFHvqHEX1wCfqUnS2f9swh8xqfwZ2epY4Ir01aD-FfYcfy7=w1200-h800-p-no)
+
+げっ歯類らしき頭蓋骨が落ちてた（裏側も写真撮っておけばよかった！！！！）。
+
+![Bone](https://lh3.googleusercontent.com/u5CwfflFGIVRJ76zKkn7koBe52YiKcRtO_QI_dWzlKpLSi-pAdqd=w1200-h800-p-no)
+
+本日の見た鳥メモ：  
+Canada Goose, Great Egret, 何らかのGull, Burrowing Owl, White-crowned Sparrow, Savannah Sparrow, White Pelican, Black Phoebe, House Finch, American Coot, Northern Pintail, 何らかのCormorant, Northern Mockingbird
