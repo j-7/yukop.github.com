@@ -7,7 +7,7 @@ date: 2015-10-08
 comments: false
 ---
 
-![](https://lh3.googleusercontent.com/wZstQCRu6UuLnb1og8TPg_4yK0TCOgUEm1nSoczTzDAJcSwGSAsIAlO4lb4C2YvZ1W1flRjfV-OsT0d5yTmxnd7Wuta29VAEm3Ptovc-2hYaVWukjjPQMPDV7aBvSj7g_t8u3-Ag5OVC8guzzFRzbLtcSxdO517oH9tDXv8vH3B_qUtx2i72lJ3RO1q-aayeS5zccFQWE4sX_pEeBCRl-Mp-sAhxnE5gtpyd9jWQavNDR9dvmjjQ6Lv4oxkDgQ5zSbSOoLjJkbZuF1ptbNwKbup0WSWmjamtRegDNhA9lUGYoA5tKzSwuJQ0etAsbcDtR5ifupMPmGNd_X6EELalWaW6kjVc1Sx-q7ekYqDK8WQ_ZyAJMarWYiIC8z3vV4hu36bzCtkHw6ei7NNCFGamvgxFysoI-3toZPUWdXhHWbJs-uRbY8_QfbwkglJKFGNwzspdYDx1BIH7Vwp31w0B3VVecYeBbAyVb2xupueSHh1I4MR4CN7rs4wZ2fbGEoRQIYGoDG6HUj7Syfqd8U7I0_ohveOiB4d2EkQJaKJ4Vq95=w1800-h1200-no)
+![](https://lh3.googleusercontent.com/-HAE0Qk-aPqM/VqeL_YOX0FI/AAAAAAADPPQ/vy3ZfOgMyiw/s800-Ic42/DSC00036.JPG)
 
 6年ほど前に買った Birkenstock の Rowley がずいぶんへたって来たので、よし、新しいのを買おう。違う形がいいなー。Tokyo の白かわいいなー。Amazon にあるけど白だと合うサイズのがないなー。NJ 州の靴屋のオンラインショップにあるなー。だいじょうぶかなーここ。と一抹の不安をおぼえながらも、物欲に屈して注文したのが8月22日のことだった。
 
