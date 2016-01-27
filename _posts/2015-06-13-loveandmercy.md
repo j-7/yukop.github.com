@@ -7,7 +7,7 @@ date: 2015-06-13
 comments: false
 ---
 
-![Loveandmercy](https://lh3.googleusercontent.com/-7fAewLhDG40/VZgm9rP4UkI/AAAAAAAC2FU/DjzsSSjSi6E/s1200-Ic42/DSC07717.JPG)
+![Loveandmercy](https://lh3.googleusercontent.com/-9wRJM7SzBRU/Vqhag0IYczI/AAAAAAADPQU/WGDjAI_TMQI/s800-Ic42/DSC07717.JPG)
 
 Brian Wilson 伝記映画 [Love & Mercy](http://www.loveandmercyfilm.com/)、すごくよかった。あと3回くらい観たい。スタジオでの Pet Sounds のレコーディング再現シーンは心躍りまくりだし胸熱でした。
 
@@ -26,4 +26,4 @@ Paul Dano のブライアンはちゃんとぷくぷくしてたので、きっ�
 
 CineArtsという単館系っぽい映画館で観たんだけど、お客さんの半分以上は、青春時代にビーチボーイズを聴いてたんだろうなあというような老紳士・老婦人でした。それもまた良かった。
 
-![CineArts](https://lh3.googleusercontent.com/-i22HqSJ2rgs/VZgnAtSUz4I/AAAAAAAC2Fs/Ftz6rx-X7wE/s800-Ic42/DSC07719.JPG)
+![CineArts](https://lh3.googleusercontent.com/-4YMWXDnHoYs/Vqhb0NABpnI/AAAAAAADPQ0/OdR1_HY2K2w/s800-Ic42/DSC07719.JPG)

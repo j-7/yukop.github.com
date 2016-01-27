@@ -7,14 +7,14 @@ date: 2015-08-10
 comments: false
 ---
 
-![Binoculars](https://lh3.googleusercontent.com/-DQVyzhCR5iA/VclyLpIh4rI/AAAAAAAC5Z0/hkmUCjGpavs/s800-Ic42/DSC08410.JPG)
+![Binoculars](https://lh3.googleusercontent.com/-PA01QyqeBY8/VqhdGiIvEGI/AAAAAAADPRg/_f-ZnjduZRg/s800-Ic42/DSC08410.JPG)
 
 バードウォッチャーの必携アイテム、双眼鏡を手に入れました！
 鳥好きベテランの友にアドバイスをもらいながらネットでいろいろ見てお店に行って試してまたネットで見て候補を絞り、最終的にはREIというアウトドアのお店で見つけました。[8 x 32](http://www.rei.com/product/777606/rei-xr-8-x-32-waterproof-binoculars) でアイレリーフは 18 mm なので眼鏡をかけたままでも安心。
 
 探していた条件をすべて満たしたスペックで予算よりもだいぶお安い！眼鏡かけたまま使える軽いのが欲しくて、お店で試したら視界も広いし明るいし、もうばっちり。期待をはるかに上回るものに出会えてほくほくです。週末は公園に鳥を見に行くぞー。
 
-![REI](https://lh3.googleusercontent.com/-5Nhvg81p0yY/VclnZUqkMYI/AAAAAAAC5ZQ/4leNt2uNDc4/s1200-Ic42/DSC08407.JPG)
+![REI](https://lh3.googleusercontent.com/-L-EFtOLpvcA/VqhdBiBDs-I/AAAAAAADPRY/9RhZ6R0nOyA/s800-Ic42/DSC08406.JPG)
 
 
 購入後に気づいたんだけど、REIのサイトの [Binoculars: How to Choose](http://www.rei.com/learn/expert-advice/binoculars.html) がよくまとまっていてべんり。
